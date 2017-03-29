@@ -8,7 +8,7 @@
     [Operator]            NVARCHAR (50)  NULL,
     [CustomMembers]       NVARCHAR (300) NULL,
     [ValueType]           NVARCHAR (50)  NULL,
-    [CustomMemberOptions] NVARCHAR (260) NULL,
+    [CustomMemberOptions] NVARCHAR (270) NULL,
     [ETLLoadID]           INT            NULL,
     [LoadDate]            DATETIME       NULL,
     [UpdateDate]          DATETIME       NULL,
